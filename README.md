@@ -1,6 +1,9 @@
 
 # The-Devfolio-Project    
 **Largest ever data set of Devfolio hackathons, sponsors, projects and much more. Scraped from 60K+ Devfolio pages and hackathons.**  
+
+![Epic dataset of Devfolio](https://github.com/user-attachments/assets/7fbc4999-2979-4813-b226-7f863a215e6e)
+
     
 ### Data set date: 21 July 2024    
  The data set is huge. The Raw Datasets folder has two files: one with all **external links** and another with **Internal links**.    
