@@ -35,7 +35,8 @@ For specific use cases, this needs filtering and cleaning.
  - [ ] Create a dataset of all Hackathons on Devfolio  
  - [ ] Create a dataset of Sponsor frequency on Devfolio (Top Sponsors etc..)  
  - [ ] Create a dataset of all Projects on Devfolio  
- - [ ] Use Google Data Studio and create nice Graphs  
+ - [ ] Use Google Data Studio and create nice Graphs
+ - [ ] Create dataset of Sponsors along with their emails and point of contact.
   
 ## Contribution:  
 **I am accepting contributions for this project and need help with cleaning and filtering data.**   
