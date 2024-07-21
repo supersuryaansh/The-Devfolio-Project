@@ -1,5 +1,5 @@
 # The-Devfolio-Project  
-Largest ever data set of Devfolio hackathons, sponsors, projects and much more.  
+Largest ever data set of Devfolio hackathons, sponsors, projects and much more. Scraped from 60K+ Devfolio pages and hackathons.
   
 ### Data set date: 21 July 2024  
   
